@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Treasury-Yield-Optimization-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Treasury-Yield-Optimization-Tools?style=social&color=white" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Treasury-Yield-Optimization-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Treasury-Yield-Optimization-Tools?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Treasury-Yield-Optimization-Tools/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,69 +74,69 @@ The table below is sorted by **Company Size / Valuation / Enterprise Scale (Desc
 
 For quantitative finance developers, treasury systems architects, and engineering teams seeking transparent, vendor-independent, self-hosted alternatives to monolithic TMS platforms 🛠️.
 
-The open-source projects below are sorted by **GitHub Stars (Descending)** ⭐:
+The open-source projects below are sorted by **GitHub_Stars (Descending)** ⭐:
 
-1. **[OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)** [![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social&color=white)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) 📊  
+1. **[OpenBB Terminal](https://github.com/OpenBB-finance/OpenBBTerminal)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social&color=white)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) 📊  
    Open-source data platform and investment research terminal for quants and treasurers. Aggregates multi-asset macro data, yields, fixed income analytics, and currency rates with Python and AI-agent integrations.
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 📦  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) 📦  
    Comprehensive enterprise resource planning (ERP) platform featuring double-entry accounting, multi-currency treasury bank accounts, cash reconciliation, and automated liquidity management.
 
-3. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) 🔒  
+3. **[Actual Budget](https://github.com/actualbudget/actual)** [![GitHub_Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) 🔒  
    Local-first, privacy-focused double-entry cash flow and ledger application with multi-bank synchronization, customizable budget categorizations, and encrypted local storage.
 
-4. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) 🪲  
+4. **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) 🪲  
    Self-hosted financial manager supporting multi-account cash positioning, deterministic rule-based transaction automations, balance notifications, and budget analytics.
 
-5. **[Lean by QuantConnect](https://github.com/QuantConnect/Lean)** [![GitHub stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=social&color=white)](https://github.com/QuantConnect/Lean/stargazers) 📈  
+5. **[Lean by QuantConnect](https://github.com/QuantConnect/Lean)** [![GitHub_Stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=social&color=white)](https://github.com/QuantConnect/Lean/stargazers) 📈  
    Institutional-grade algorithmic trading and automated execution engine (C#, Python) ideal for executing automated cash-sweep allocations, T-bill rebalancing, and fixed income strategy simulations.
 
-6. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) 🧾  
+6. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) 🧾  
    Self-hosted invoice, payments, and receivables optimization platform. Accelerates cash conversion cycles, manages multiple commercial bank accounts, and automates payment reconciliation.
 
-7. **[Ledger CLI](https://github.com/ledger/ledger)** [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers) ⌨️  
+7. **[Ledger CLI](https://github.com/ledger/ledger)** [![GitHub_Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers) ⌨️  
    The canonical command-line double-entry accounting engine. Provides deterministic balance tracking, mathematical auditability, and multi-currency valuation without database overhead.
 
-8. **[hledger](https://github.com/simonmichael/hledger)** [![GitHub stars](https://img.shields.io/github/stars/simonmichael/hledger?style=social&color=white)](https://github.com/simonmichael/hledger/stargazers) 📑  
+8. **[hledger](https://github.com/simonmichael/hledger)** [![GitHub_Stars](https://img.shields.io/github/stars/simonmichael/hledger?style=social&color=white)](https://github.com/simonmichael/hledger/stargazers) 📑  
    Fast, robust plain-text accounting tool with CLI, TUI, and web interfaces. Ideal for scripted corporate treasury balance reconciliation, deterministic sweep tracking, and ledger audits.
 
-9. **[GnuCash](https://github.com/gnucash/gnucash)** [![GitHub stars](https://img.shields.io/github/stars/gnucash/gnucash?style=social&color=white)](https://github.com/gnucash/gnucash/stargazers) 💹  
+9. **[GnuCash](https://github.com/gnucash/gnucash)** [![GitHub_Stars](https://img.shields.io/github/stars/gnucash/gnucash?style=social&color=white)](https://github.com/gnucash/gnucash/stargazers) 💹  
    Open-source double-entry accounting system tracking multi-bank liquidity, investment holding performance, cash flow projections, and reconciliation schedules.
 
-10. **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)** [![GitHub stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers) 🎯  
+10. **[Portfolio Performance](https://github.com/portfolio-performance/portfolio)** [![GitHub_Stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers) 🎯  
     Open-source portfolio accounting software evaluating yield, IRR, and benchmark-relative returns across money market instruments, government paper, and debt securities.
 
-11. **[Rotki](https://github.com/rotki/rotki)** [![GitHub stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) 🛡️  
+11. **[Rotki](https://github.com/rotki/rotki)** [![GitHub_Stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) 🛡️  
     Privacy-first portfolio tracking, analytics, and accounting suite that stores all balance information locally and securely integrates off-chain accounts and crypto assets.
 
-12. **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) 🏦  
+12. **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) 🏦  
     Enterprise core banking and financial services software platform. Manages liquidity pools, inter-account settlement transactions, interest accrual, and multi-tier deposit architectures.
 
-13. **[FINOS Legend](https://github.com/finos/legend)** [![GitHub stars](https://img.shields.io/github/stars/finos/legend?style=social&color=white)](https://github.com/finos/legend/stargazers) 🏛️  
+13. **[FINOS Legend](https://github.com/finos/legend)** [![GitHub_Stars](https://img.shields.io/github/stars/finos/legend?style=social&color=white)](https://github.com/finos/legend/stargazers) 🏛️  
     Financial open-source data modeling and governance platform developed under the Linux Foundation. Standardizes financial data pipelines, liquidity reporting models, and compliance checks.
 
-14. **[Picsou Finance](https://github.com/Cloeille/picsou-finance)** [![GitHub stars](https://img.shields.io/github/stars/Cloeille/picsou-finance?style=social&color=white)](https://github.com/Cloeille/picsou-finance/stargazers) 💳  
+14. **[Picsou Finance](https://github.com/Cloeille/picsou-finance)** [![GitHub_Stars](https://img.shields.io/github/stars/Cloeille/picsou-finance?style=social&color=white)](https://github.com/Cloeille/picsou-finance/stargazers) 💳  
     Self-hosted personal and small business finance dashboard tracking multi-bank cash balances, investment accounts, and corporate liquid net worth in real time.
 
-15. **[Flowy](https://github.com/Xen0Xys/Flowy)** [![GitHub stars](https://img.shields.io/github/stars/Xen0Xys/Flowy?style=social&color=white)](https://github.com/Xen0Xys/Flowy/stargazers) 🌊  
+15. **[Flowy](https://github.com/Xen0Xys/Flowy)** [![GitHub_Stars](https://img.shields.io/github/stars/Xen0Xys/Flowy?style=social&color=white)](https://github.com/Xen0Xys/Flowy/stargazers) 🌊  
     Self-hosted finance platform (Docker Compose, PostgreSQL) built for multi-account cash monitoring, role-based shared permissions, and custom liquidity category tracking.
 
-16. **[Convex](https://github.com/sujitn/convex)** [![GitHub stars](https://img.shields.io/github/stars/sujitn/convex?style=social&color=white)](https://github.com/sujitn/convex/stargazers) 🦀  
+16. **[Convex](https://github.com/sujitn/convex)** [![GitHub_Stars](https://img.shields.io/github/stars/sujitn/convex?style=social&color=white)](https://github.com/sujitn/convex/stargazers) 🦀  
     High-performance fixed income analytics engine written in Rust. Executes yield curve bootstrapping, sub-microsecond bond pricing, YTM calculation, Z-spread, and includes an MCP server for AI treasury agents.
 
-17. **[shared-finances](https://github.com/ynixt/shared-finances)** [![GitHub stars](https://img.shields.io/github/stars/ynixt/shared-finances?style=social&color=white)](https://github.com/ynixt/shared-finances/stargazers) 👥  
+17. **[shared-finances](https://github.com/ynixt/shared-finances)** [![GitHub_Stars](https://img.shields.io/github/stars/ynixt/shared-finances?style=social&color=white)](https://github.com/ynixt/shared-finances/stargazers) 👥  
     Spring Boot and Angular accounting control system managing multi-account cash allocations, role-based authorization hierarchies, and grouped account balances.
 
-18. **[Puzzle](https://github.com/BaDaaS/puzzle)** [![GitHub stars](https://img.shields.io/github/stars/BaDaaS/puzzle?style=social&color=white)](https://github.com/BaDaaS/puzzle/stargazers) 🧩  
+18. **[Puzzle](https://github.com/BaDaaS/puzzle)** [![GitHub_Stars](https://img.shields.io/github/stars/BaDaaS/puzzle?style=social&color=white)](https://github.com/BaDaaS/puzzle/stargazers) 🧩  
     Self-hosted asset tracking platform engineered for commercial operators and sole traders holding mixed balance sheets across cash, stocks, and short-term T-bills.
 
-19. **[Vestiarion](https://github.com/duongnq2798/vestiarion)** [![GitHub stars](https://img.shields.io/github/stars/duongnq2798/vestiarion?style=social&color=white)](https://github.com/duongnq2798/vestiarion/stargazers) 🤖  
+19. **[Vestiarion](https://github.com/duongnq2798/vestiarion)** [![GitHub_Stars](https://img.shields.io/github/stars/duongnq2798/vestiarion?style=social&color=white)](https://github.com/duongnq2798/vestiarion/stargazers) 🤖  
     Autonomous treasury agent for modern businesses (settled in USDC on Arc). Screens counterparties, processes payables under deterministic rules, and executes autonomous sweeps into yield vaults.
 
-20. **[Nexus Treasury](https://github.com/azaharizaman/nexus-treasury)** [![GitHub stars](https://img.shields.io/github/stars/azaharizaman/nexus-treasury?style=social&color=white)](https://github.com/azaharizaman/nexus-treasury/stargazers) ⚙️  
+20. **[Nexus Treasury](https://github.com/azaharizaman/nexus-treasury)** [![GitHub_Stars](https://img.shields.io/github/stars/azaharizaman/nexus-treasury?style=social&color=white)](https://github.com/azaharizaman/nexus-treasury/stargazers) ⚙️  
     Modular PHP treasury engine providing cash concentration pools, working capital policy rules, configurable user approval limits, and multi-currency authorization workflows.
 
-21. **[Vantage-Point](https://github.com/rasali535/vantage_point)** [![GitHub stars](https://img.shields.io/github/stars/rasali535/vantage_point?style=social&color=white)](https://github.com/rasali535/vantage_point/stargazers) 🔭  
+21. **[Vantage-Point](https://github.com/rasali535/vantage_point)** [![GitHub_Stars](https://img.shields.io/github/stars/rasali535/vantage_point?style=social&color=white)](https://github.com/rasali535/vantage_point/stargazers) 🔭  
     Multi-agent treasury risk architecture featuring mathematical anti-whipsaw filter layers (Kaufman Efficiency Ratio, ATR) and an AI Boardroom Council for automated policy compliance.
 
 ---
@@ -178,7 +178,7 @@ We welcome additions from treasurers, fintech founders, and open-source contribu
 1. **Fork the repository** on GitHub 🍴.
 2. Add your tool to the corresponding section:
    - For **SaaS platforms**, ensure the entry is placed in the table with verified starting tier pricing, free trial limits, company valuation/revenue, and maintain descending size sorting.
-   - For **Open-Source projects**, add a social white star badge linking to `/stargazers` and position it according to its star count.
+   - For **Open-Source projects**, add a social white Stars_Badge linking to `/stargazers` and position it according to its Stars_Count.
 3. Keep descriptions factual, objective, and neutral ⚖️.
 4. Submit a **Pull Request** detailing why the tool qualifies as a corporate treasury or yield optimization solution 🚀.
 
